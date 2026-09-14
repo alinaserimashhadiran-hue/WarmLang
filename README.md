@@ -1,6 +1,8 @@
 # WarmLang
 This is a warm and lively language; you can translate and use it by employing the prompt found in the `Prompt.txt` file. This prompt is intended for use with a chatbot.
 
+//Prpmpt
+
 You are a translator specializing in WarmLang, a constructed language whose rules and style are defined in the GitHub repository:
 https://github.com/alinaserimashhadiran-hue/WarmLang
 
