@@ -1,0 +1,140 @@
+# WarmLang Fruit Vocabulary — FruitsOne.txt
+# Purpose:
+# This file is intended to be added to the WarmLang repository as a vocabulary
+# reference for chatbots and translators.
+#
+# Format:
+# English concept = {WarmLang equivalent};
+#
+# Instructions for completion:
+# - Replace only the text inside { } with the official WarmLang equivalent.
+# - Keep the English concept on the left unchanged.
+# - Keep the semicolon at the end of every entry.
+# - Use one entry per line.
+# - Do not invent WarmLang words.
+# - If an item has no WarmLang equivalent, write:
+#   English concept = {NO_WARMLANG_EQUIVALENT};
+# - If the repository uses a specific grammatical form for nouns, use that form.
+# - If the WarmLang word is already documented elsewhere, use the exact documented
+#   spelling rather than creating a variant.
+#
+# Recommended chatbot interpretation:
+# Each completed line defines a lexical mapping:
+#   SOURCE CONCEPT -> OFFICIAL WARMLANG WORD
+#
+# These entries are vocabulary data, not translation instructions.
+# Grammar and sentence construction must continue to follow Prompt.txt.
+
+# ===== COMMON FRUITS =====
+
+apple = {Nead};
+banana = {Versol};
+orange = {Norange};
+lemon = {Lobi};
+lime = {ZiLobi};
+grapefruit = {Izenange};
+mandarin = {SmallFeo};
+tangerine = {Feo};
+clementine = {FigFoe};
+pear = {Meade};
+peach = {Seal};
+nectarine = {Heal};
+plum = {Posh};
+apricot = {PeaPoch};
+cherry = {QusMeat};
+sour cherry = {Bolar};
+strawberry = {Cimera};
+raspberry = {NolFee};
+blackberry = {Huimo};
+blueberry = {Seacend};
+cranberry = {Uivon};
+gooseberry = {Seg};
+grape = {Loose};
+watermelon = {FogBut};
+melon = {Zin};
+cantaloupe = {SuitSand};
+honeydew melon = {Mark};
+pomegranate = {Air};
+kiwi = {Polluceishen};
+mango = {Serios};
+papaya = {Many};
+pineapple = {Feelvop};
+coconut = {Solar};
+fig = {Weand};
+date = {Beayu};
+persimmon = {Poi};
+guava = {Shoin};
+passion fruit = {Rapoo};
+dragon fruit = {Easee};
+lychee = {Comun};
+longan = {Eefo};
+durian = {Naghsh};
+jackfruit = {Jakeel};
+star fruit = {Cerees};
+quince = {Kueen};
+mulberry = {Veely};
+elderberry = {Hoa};
+blackcurrant = {Zond};
+redcurrant = {Poend};
+
+# ===== COMMON FRUIT VARIETIES / RELATED TERMS =====
+
+green apple = {NeadSeal};
+red apple = {NeadQus};
+golden apple = {NeadBeayu};
+seedless grape = {LooseNo};
+red grape = {LooseQus};
+green grape = {LooseNead};
+black grape = {LooseHuimo};
+red berry = {QusCimera};
+wild strawberry = {CimeraWild};
+
+# ===== CITRUS =====
+
+citrus fruit = {NorangeKeen};
+blood orange = {NorangeQus};
+sweet orange = {NorangeMark};
+bitter orange = {NorangeBolar};
+pomelo = {IzenangeBig};
+kumquat = {SmallFeoGold};
+yuzu = {ZiLobiSharp};
+
+# ===== STONE FRUITS =====
+
+stone fruit = {PoshKeen};
+yellow peach = {SealBeayu};
+white peach = {SealMark};
+black plum = {PoshHuimo};
+yellow plum = {PoshBeayu};
+mirabelle plum = {PoshGold};
+greengage = {PoshNead};
+
+# ===== TROPICAL FRUITS =====
+
+tropical fruit = {SeriosKeen};
+breadfruit = {ManyBread};
+sapodilla = {ManySweet};
+cherimoya = {ManyCream};
+custard apple = {NeadCream};
+soursop = {ManyBolar};
+rambutan = {ComunHair};
+mangosteen = {ComunQus};
+salak = {ComunScale};
+
+# ===== BOTANICAL / LANGUAGE NOTES =====
+
+fruit = {Keen};
+fruit tree = {KeenTree};
+fruit juice = {KeenWater};
+fruit salad = {KeenMix};
+fresh fruit = {KeenNew};
+dried fruit = {KeenDry};
+ripe fruit = {KeenRipe};
+unripe fruit = {KeenUnripe};
+sweet fruit = {KeenMark};
+sour fruit = {KeenBolar};
+fruit seed = {KeenSeed};
+fruit skin = {KeenSkin};
+fruit flesh = {KeenFlesh};
+
+# End of FruitsOne.txt
