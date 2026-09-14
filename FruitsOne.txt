@@ -79,12 +79,12 @@ redcurrant = {Poend};
 
 # ===== COMMON FRUIT VARIETIES / RELATED TERMS =====
 
-green apple = {NeadSeal};
+green apple = {NeadGreen};
 red apple = {NeadQus};
 golden apple = {NeadBeayu};
 seedless grape = {LooseNo};
 red grape = {LooseQus};
-green grape = {LooseNead};
+green grape = {LooseGreen};
 black grape = {LooseHuimo};
 red berry = {QusCimera};
 wild strawberry = {CimeraWild};
@@ -107,7 +107,7 @@ white peach = {SealMark};
 black plum = {PoshHuimo};
 yellow plum = {PoshBeayu};
 mirabelle plum = {PoshGold};
-greengage = {PoshNead};
+greengage = {PoshGreen};
 
 # ===== TROPICAL FRUITS =====
 
