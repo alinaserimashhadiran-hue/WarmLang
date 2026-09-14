@@ -1,0 +1,295 @@
+# WarmLang Color Vocabulary — ColorsOne.txt
+# Purpose:
+# This file is intended to be added to the WarmLang repository as a vocabulary
+# reference for chatbots and translators.
+#
+# Format:
+# English concept = {WarmLang equivalent};
+#
+# Instructions for completion:
+# - Replace only the text inside { } with the official WarmLang equivalent.
+# - Keep the English concept on the left unchanged.
+# - Keep the semicolon at the end of every entry.
+# - Use one entry per line.
+# - Do not invent WarmLang words.
+# - If an item has no WarmLang equivalent, write:
+#   English concept = {NO_WARMLANG_EQUIVALENT};
+# - If the repository uses a specific grammatical form for nouns, use that form.
+# - If the WarmLang word is already documented elsewhere, use the exact documented
+#   spelling rather than creating a variant.
+#
+# Recommended chatbot interpretation:
+# Each completed line defines a lexical mapping:
+#   SOURCE CONCEPT -> OFFICIAL WARMLANG WORD
+#
+# These entries are vocabulary data, not translation instructions.
+# Grammar and sentence construction must continue to follow Prompt.txt.
+
+# ===== BASIC COLORS =====
+
+color = {Kolor};
+red = {Qus};
+blue = {Blu};
+green = {Nead};
+yellow = {Beayu};
+orange = {Norange};
+purple = {Porp};
+pink = {Pinko};
+brown = {Brown};
+black = {Huimo};
+white = {Mark};
+gray = {Grai};
+
+# ===== SHADES AND TONES =====
+
+light = {Lait};
+dark = {Darko};
+bright = {Brait};
+pale = {Palo};
+deep = {Deepo};
+vivid = {Vivido};
+pastel = {Pastelo};
+neon = {Neono};
+matte = {Matto};
+glossy = {Gloso};
+
+# ===== RED SHADES =====
+
+light red = {QusLait};
+dark red = {QusDarko};
+bright red = {QusBrait};
+pale red = {QusPalo};
+deep red = {QusDeepo};
+crimson = {QusCrim};
+scarlet = {QusSkar};
+maroon = {QusMaro};
+ruby = {QusRubi};
+cherry red = {QusMeat};
+rose = {QusRos};
+salmon = {QusSalm};
+coral = {QusKoral};
+brick red = {QusBrik};
+rust = {QusRust};
+
+# ===== BLUE SHADES =====
+
+light blue = {BluLait};
+dark blue = {BluDarko};
+bright blue = {BluBrait};
+pale blue = {BluPalo};
+deep blue = {BluDeepo};
+sky blue = {BluSky};
+navy blue = {BluNavi};
+royal blue = {BluRoyal};
+azure = {BluAzur};
+cyan = {BluCyan};
+teal = {BluTeal};
+turquoise = {BluTurk};
+cerulean = {BluCeru};
+cobalt = {BluCob};
+indigo = {BluIndi};
+sapphire = {BluSap};
+steel blue = {BluSteel};
+baby blue = {BluBaby};
+midnight blue = {BluMid};
+denim = {BluDenim};
+periwinkle = {BluPeri};
+
+# ===== GREEN SHADES =====
+
+light green = {NeadLait};
+dark green = {NeadDarko};
+bright green = {NeadBrait};
+pale green = {NeadPalo};
+deep green = {NeadDeepo};
+lime green = {NeadLime};
+olive = {NeadOliv};
+emerald = {NeadEmer};
+jade = {NeadJade};
+mint = {NeadMint};
+forest green = {NeadForest};
+sage = {NeadSage};
+moss green = {NeadMoss};
+pine green = {NeadPine};
+sea green = {NeadSea};
+chartreuse = {NeadChart};
+hunter green = {NeadHunter};
+kelly green = {NeadKelly};
+spring green = {NeadSpring};
+army green = {NeadArmy};
+
+# ===== YELLOW SHADES =====
+
+light yellow = {BeayuLait};
+dark yellow = {BeayuDarko};
+bright yellow = {BeayuBrait};
+pale yellow = {BeayuPalo};
+deep yellow = {BeayuDeepo};
+gold = {BeayuGold};
+golden = {BeayuGolden};
+amber = {BeayuAmber};
+mustard = {BeayuMust};
+canary = {BeayuCan};
+lemon yellow = {BeayuLobi};
+cream = {BeayuCream};
+ivory = {BeayuIvory};
+butter = {BeayuButter};
+honey = {BeayuHoney};
+saffron = {BeayuSaff};
+maize = {BeayuMaize};
+flax = {BeayuFlax};
+straw = {BeayuStraw};
+
+# ===== ORANGE SHADES =====
+
+light orange = {NorangeLait};
+dark orange = {NorangeDarko};
+bright orange = {NorangeBrait};
+pale orange = {NorangePalo};
+deep orange = {NorangeDeepo};
+tangerine = {NorangeFeo};
+peach = {NorangeSeal};
+apricot = {NorangePea};
+coral orange = {NorangeKoral};
+burnt orange = {NorangeBunt};
+pumpkin = {NorangePump};
+rust orange = {NorangeRust};
+copper = {NorangeCop};
+bronze = {NorangeBronz};
+terracotta = {NorangeTerra};
+carrot = {NorangeKarot};
+tangerine orange = {NorangeTang};
+mandarin orange = {NorangeMand};
+
+# ===== PURPLE SHADES =====
+
+light purple = {PorpLait};
+dark purple = {PorpDarko};
+bright purple = {PorpBrait};
+pale purple = {PorpPalo};
+deep purple = {PorpDeepo};
+violet = {PorpViol};
+lavender = {PorpLav};
+lilac = {PorpLil};
+plum = {PorpPosh};
+mauve = {PorpMauve};
+orchid = {PorpOrch};
+magenta = {PorpMag};
+fuchsia = {PorpFuch};
+amethyst = {PorpAme};
+eggplant = {PorpEgg};
+grape purple = {PorpLoose};
+royal purple = {PorpRoyal};
+byzantium = {PorpByz};
+mulberry purple = {PorpVeely};
+
+# ===== PINK SHADES =====
+
+light pink = {PinkoLait};
+dark pink = {PinkoDarko};
+bright pink = {PinkoBrait};
+pale pink = {PinkoPalo};
+deep pink = {PinkoDeepo};
+hot pink = {PinkoHot};
+baby pink = {PinkoBaby};
+rose pink = {PinkoRos};
+salmon pink = {PinkoSalm};
+coral pink = {PinkoKoral};
+blush = {PinkoBlush};
+flamingo = {PinkoFlam};
+watermelon pink = {PinkoFogBut};
+cherry blossom = {PinkoQusMeat};
+
+# ===== BROWN SHADES =====
+
+light brown = {BrownLait};
+dark brown = {BrownDarko};
+bright brown = {BrownBrait};
+pale brown = {BrownPalo};
+deep brown = {BrownDeepo};
+tan = {BrownTan};
+beige = {BrownBeige};
+khaki = {BrownKhaki};
+chocolate = {BrownChoc};
+coffee = {BrownCof};
+caramel = {BrownCar};
+chestnut = {BrownChest};
+walnut = {BrownWal};
+hazel = {BrownHaz};
+cinnamon = {BrownCin};
+sepia = {BrownSep};
+umber = {BrownUmber};
+sienna = {BrownSien};
+mahogany = {BrownMaho};
+sand = {BrownSand};
+
+# ===== BLACK, WHITE, GRAY SHADES =====
+
+light gray = {GraiLait};
+dark gray = {GraiDarko};
+bright gray = {GraiBrait};
+pale gray = {GraiPalo};
+deep gray = {GraiDeepo};
+silver = {GraiSilv};
+charcoal = {GraiChar};
+slate = {GraiSlate};
+ash = {GraiAsh};
+smoke = {GraiSmoke};
+pewter = {GraiPew};
+gunmetal = {GraiGun};
+off-white = {MarkOff};
+ivory white = {MarkIvory};
+cream white = {MarkCream};
+snow white = {MarkSnow};
+pearl = {MarkPearl};
+jet black = {HuimoJet};
+ink black = {HuimoInk};
+onyx = {HuimoOnyx};
+ebony = {HuimoEbo};
+
+# ===== METALLIC AND SPECIAL COLORS =====
+
+metallic = {MetalKolor};
+gold metallic = {MetalGold};
+silver metallic = {MetalSilv};
+bronze metallic = {MetalBronz};
+copper metallic = {MetalCop};
+iridescent = {IridKolor};
+holographic = {HoloKolor};
+transparent = {TransKolor};
+translucent = {TranslucKolor};
+opaque = {OpaqueKolor};
+fluorescent = {FluorKolor};
+phosphorescent = {PhosphoKolor};
+
+# ===== COLOR PROPERTIES =====
+
+hue = {KolorHue};
+shade = {KolorShade};
+tint = {KolorTint};
+tone = {KolorTone};
+saturation = {KolorSat};
+brightness = {KolorBright};
+contrast = {KolorContrast};
+warm color = {KolorWarm};
+cool color = {KolorCool};
+neutral color = {KolorNeutral};
+complementary = {KolorComp};
+primary color = {KolorPrime};
+secondary color = {KolorSecond};
+tertiary color = {KolorThird};
+
+# ===== COLOR COMBINATIONS =====
+
+black and white = {HuimoMark};
+red and blue = {QusBlu};
+green and yellow = {NeadBeayu};
+orange and purple = {NorangePorp};
+pink and gray = {PinkoGrai};
+brown and cream = {BrownCream};
+rainbow = {KolorRain};
+multicolored = {KolorMulti};
+two-tone = {KolorTwo};
+monochrome = {KolorMono};
+
+# End of ColorsOne.txt
